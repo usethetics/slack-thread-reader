@@ -1,4 +1,4 @@
-# slack-thread-reader
+# Slack thread reader
 
 Attempt to make Slack threads readable and exportable.
 
