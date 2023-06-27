@@ -1,0 +1,27 @@
+.p-workspace-layout {
+	display: block;
+}
+
+.p-top_nav,
+.p-workspace__sidebar, 
+.p-workspace__primary_view,
+.p-resizer,
+.p-flexpane_header,
+.p-threads_footer__input_container,
+.c-message_kit__gutter__left,
+.c-message_kit__labels__label,
+.c-custom_status,
+.c-message_kit__reaction_bar {
+	display: none !important;
+}
+
+.c-virtual_list__item {
+	padding-bottom: 2rem;
+}
+
+.c-message_kit__gutter,
+.p-rich_text_section,
+.c-message_attachment__body {
+  font-family: Georgia;
+	font-size: 1.25em;
+}
